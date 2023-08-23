@@ -1,11 +1,11 @@
 [
     {
         "customerNumber": "1",
-        "email": "jane.doe@example.com",
+        "email": "ek@ek.com",
         "firstName": "Jane",
-        "lastName": "Doe",
+        "lastName": "khaleeva",
         "title": "Mrs",
-        "password": "p@ssword",
+        "password": "Qwerty123!",
         "addresses": [
             {
                 "id": "PPM3YhMK",
@@ -14,9 +14,9 @@
                 "lastName": "Doe",
                 "streetName": "First Street",
                 "streetNumber": "12",
-                "postalCode": "12345",
+                "postalCode": "12-345",
                 "city": "Example City",
-                "country": "NL",
+                "country": "PL",
                 "phone": "+312345678",
                 "mobile": "+312345679",
                 "email": "jane.doe@example.com"
@@ -28,9 +28,9 @@
                 "lastName": "Doe",
                 "streetName": "Third Street",
                 "streetNumber": "34",
-                "postalCode": "12345",
+                "postalCode": "12-345",
                 "city": "Example City",
-                "country": "NL",
+                "country": "PL",
                 "phone": "+3112345678",
                 "mobile": "+3112345679",
                 "email": "jane.doe@example.com"
@@ -49,8 +49,8 @@
     {
         "customerNumber": "2",
         "email": "john.doe@example.com",
-        "firstName": "John",
-        "lastName": "Doe",
+        "firstName": "Ksenia",
+        "lastName": "B",
         "title": "Mr.",
         "password": "p@ssword",
         "addresses": [
@@ -61,9 +61,9 @@
                 "lastName": "Doe",
                 "streetName": "Second Street",
                 "streetNumber": "13",
-                "postalCode": "12345",
+                "postalCode": "12-345",
                 "city": "Example City",
-                "country": "NL",
+                "country": "PL",
                 "phone": "+31123456780",
                 "mobile": "+31123456781",
                 "email": "john.doe@example.com"
