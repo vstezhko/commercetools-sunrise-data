@@ -2,8 +2,7 @@
   {
     "key": "reservationOrder",
     "name": {
-      "en": "Reserved Products",
-      "de": "Reservierte Produkte"
+      "en": "Reserved Products"
     },
     "resourceTypeIds": [
       "order"
@@ -12,8 +11,7 @@
       {
         "name": "isReservation",
         "label": {
-          "en": "Reservation",
-          "de": "Reservierung"
+          "en": "Reservation"
         },
         "required": false,
         "type": {

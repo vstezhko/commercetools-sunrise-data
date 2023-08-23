@@ -2,7 +2,6 @@
   {
     "key": "iOSUser",
     "name": {
-      "de": "iOSUser",
       "en": "iOSUser"
     },
     "resourceTypeIds": [
@@ -12,8 +11,7 @@
       {
         "name": "apnsToken",
         "label": {
-          "en": "apnsToken",
-          "de": "apnsToken"
+          "en": "apnsToken"
         },
         "required": false,
         "type": {

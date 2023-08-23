@@ -3,25 +3,5 @@
     "name": {
         "en": "Default"
     }
-},
-{
-    "key": "dach",
-    "name": {
-        "en": "DACH region"
-    },
-    "languages": ["de"]
-},
-{
-    "key": "europe",
-    "name": {
-        "en": "Europe"
-    },
-    "languages": ["de", "en"]
-},
-{
-    "key": "uk",
-    "name": {
-        "en": "UK"
-    },
-    "languages": ["en"]
-}]
+}
+]

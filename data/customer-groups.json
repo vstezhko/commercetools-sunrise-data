@@ -1,22 +1,6 @@
 [
   {
-      "key": "b2b",
-      "groupName": "b2b"
-  },
-  {
-      "key": "silver",
-      "groupName": "Silver"
-  },
-  {
-      "key": "gold",
-      "groupName": "Gold"
-  },
-  {
-      "key": "platinum",
-      "groupName": "Platinum"
-  },
-  {
-      "key": "diamond",
-      "groupName": "Diamond"
+      "key": "general",
+      "groupName": "general"
   }
 ]
