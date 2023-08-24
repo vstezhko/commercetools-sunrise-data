@@ -1,83 +1,83 @@
 [
-    {
-        "customerNumber": "1",
-        "email": "ek@ek.com",
-        "firstName": "Jane",
-        "lastName": "khaleeva",
-        "title": "Mrs",
-        "password": "Qwerty123!",
-        "addresses": [
-            {
-                "id": "PPM3YhMK",
-                "title": "Mrs.",
-                "firstName": "Jane",
-                "lastName": "Doe",
-                "streetName": "First Street",
-                "streetNumber": "12",
-                "postalCode": "12-345",
-                "city": "Example City",
-                "country": "PL",
-                "phone": "+312345678",
-                "mobile": "+312345679",
-                "email": "jane.doe@example.com"
-            },
-            {
-                "id": "kzVASZ9O",
-                "title": "Head of factory",
-                "firstName": "Jane",
-                "lastName": "Doe",
-                "streetName": "Third Street",
-                "streetNumber": "34",
-                "postalCode": "12-345",
-                "city": "Example City",
-                "country": "PL",
-                "phone": "+3112345678",
-                "mobile": "+3112345679",
-                "email": "jane.doe@example.com"
-            }
-        ],
-        "shippingAddressIds": [
-            "PPM3YhMK"
-        ],
-        "billingAddressIds": [
-            "kzVASZ9O"
-        ],
-        "isEmailVerified": true,
-        "key": "janeDoe",
-        "dateOfBirth": "1974-09-20"
-    },
-    {
-        "customerNumber": "2",
-        "email": "john.doe@example.com",
-        "firstName": "Ksenia",
-        "lastName": "B",
+  {
+    "customerNumber": "1",
+    "email": "ek@ek.com",
+    "firstName": "Jane",
+    "lastName": "khaleeva",
+    "title": "Mrs",
+    "password": "Qwerty123!",
+    "addresses": [
+      {
+        "id": "PPM3YhMK",
+        "title": "Mrs.",
+        "firstName": "",
+        "lastName": "",
+        "streetName": "First Street",
+        "streetNumber": "12",
+        "postalCode": "12-345",
+        "city": "Warsaw",
+        "country": "PL",
+        "phone": "+312345679",
+        "mobile": "",
+        "email": ""
+      },
+      {
+        "id": "kzVASZ9O",
+        "title": "",
+        "firstName": "",
+        "lastName": "",
+        "streetName": "Third Street",
+        "streetNumber": "34",
+        "postalCode": "12-345",
+        "city": "Warsaw",
+        "country": "PL",
+        "phone": "+312345679",
+        "mobile": "",
+        "email": ""
+      }
+    ],
+    "shippingAddressIds": [
+      "PPM3YhMK"
+    ],
+    "billingAddressIds": [
+      "kzVASZ9O"
+    ],
+    "isEmailVerified": true,
+    "key": "janeKhaleeva",
+    "dateOfBirth": "1990-09-02"
+  },
+  {
+    "customerNumber": "2",
+    "email": "john.doe@example.com",
+    "firstName": "Ksenia",
+    "lastName": "B",
+    "title": "Mr.",
+    "password": "p@ssword",
+    "addresses": [
+      {
+        "id": "a-qURQXR",
         "title": "Mr.",
-        "password": "p@ssword",
-        "addresses": [
-            {
-                "id": "a-qURQXR",
-                "title": "Mr.",
-                "firstName": "John",
-                "lastName": "Doe",
-                "streetName": "Second Street",
-                "streetNumber": "13",
-                "postalCode": "12-345",
-                "city": "Example City",
-                "country": "PL",
-                "phone": "+31123456780",
-                "mobile": "+31123456781",
-                "email": "john.doe@example.com"
-            }
-        ],
-        "shippingAddressIds": [
-            "a-qURQXR"
-        ],
-        "billingAddressIds": [
-            "a-qURQXR"
-        ],
-        "isEmailVerified": true,
-        "key": "johnDoe",
-        "dateOfBirth": "1943-12-18",
-        "companyName": "Example Company"
-    }
+        "firstName": "John",
+        "lastName": "Doe",
+        "streetName": "Second Street",
+        "streetNumber": "13",
+        "postalCode": "12-345",
+        "city": "Example City",
+        "country": "PL",
+        "phone": "+31123456780",
+        "mobile": "+31123456781",
+        "email": "john.doe@example.com"
+      }
+    ],
+    "shippingAddressIds": [
+      "a-qURQXR"
+    ],
+    "billingAddressIds": [
+      "a-qURQXR"
+    ],
+    "isEmailVerified": true,
+    "key": "johnDoe",
+    "dateOfBirth": "1943-12-18",
+    "companyName": "Example Company"
+  }
 ]
