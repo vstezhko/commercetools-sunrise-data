@@ -1,1 +1,1 @@
-productType,variantId,sku,prices,tax,categories,images,name.en,description.en,slug.en,metaTitle.en,metaDescription.en,metaKeywords.en,flowersType,color
+productType,id,variantId,sku,prices,tax,categories,images,name.en,description.en,slug.en,metaTitle.en,metaDescription.en,metaKeywords.en,flowersType,color,composition,size

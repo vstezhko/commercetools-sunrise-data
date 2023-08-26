@@ -31,6 +31,34 @@
         "isSearchable": true,
         "inputHint": "SingleLine",
         "displayGroup": "Other"
+      },
+      {
+        "name": "composition",
+        "label": {
+          "en": "composition"
+        },
+        "isRequired": false,
+        "type": {
+          "name": "text"
+        },
+        "attributeConstraint": "None",
+        "isSearchable": true,
+        "inputHint": "SingleLine",
+        "displayGroup": "Other"
+      },
+      {
+        "name": "size",
+        "label": {
+          "en": "size"
+        },
+        "isRequired": false,
+        "type": {
+          "name": "text"
+        },
+        "attributeConstraint": "None",
+        "isSearchable": true,
+        "inputHint": "SingleLine",
+        "displayGroup": "Other"
       }
     ]
   }
